@@ -1,5 +1,8 @@
 # This is a web scraper for smart and final pricing
 
+# App can be used at:
+* http://prox-pro.s3-website.us-east-2.amazonaws.com/
+  
 # The flow is as follows:
 * user dowloads and excel templete and fills it out
 * User upload template + desired zip code to frontend
