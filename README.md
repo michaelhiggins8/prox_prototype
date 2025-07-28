@@ -1,5 +1,8 @@
 # This is a web scraper for smart and final pricing
 
+# Local demo which shows screen workflow:
+https://www.loom.com/share/429d2bfaca5e4c17a6edbcfcc5772024?sid=46d45531-acce-4de2-931b-7693f55fb788
+
 # App can be used at:
 * http://prox-pro.s3-website.us-east-2.amazonaws.com/
   
